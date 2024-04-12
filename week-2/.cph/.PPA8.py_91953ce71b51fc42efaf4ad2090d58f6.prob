@@ -1,0 +1,1 @@
+{"name":"Local: PPA8","url":"c:\\k26rahul\\Code\\Vidhatri\\week-2\\PPA8.py","tests":[{"id":1712161661011,"input":"C3\nE5","output":"YES"},{"id":1712161667995,"input":"B2\nD3","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\k26rahul\\Code\\Vidhatri\\week-2\\PPA8.py","group":"local","local":true}

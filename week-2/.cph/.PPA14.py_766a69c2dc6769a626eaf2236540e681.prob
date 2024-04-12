@@ -1,0 +1,1 @@
+{"name":"Local: PPA14","url":"c:\\k26rahul\\Code\\Vidhatri\\week-2\\PPA14.py","tests":[{"id":1712164494267,"input":"and","output":"It is not a perfect word"},{"id":1712164499621,"input":"aeious","output":"It is a perfect word"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\k26rahul\\Code\\Vidhatri\\week-2\\PPA14.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PPA4","url":"c:\\k26rahul\\Code\\Vidhatri\\week-3\\PPA4.py","tests":[{"id":1712233983734,"input":"17","output":"PRIME"},{"id":1712233992303,"input":"21","output":"NOTPRIME"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\k26rahul\\Code\\Vidhatri\\week-3\\PPA4.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PPA9","url":"c:\\k26rahul\\Code\\Vidhatri\\week-4\\PPA9.py","tests":[{"id":1712590042198,"input":"2\n10 20\n30 40\n5","output":"50 100\n150 200"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\k26rahul\\Code\\Vidhatri\\week-4\\PPA9.py","group":"local","local":true}

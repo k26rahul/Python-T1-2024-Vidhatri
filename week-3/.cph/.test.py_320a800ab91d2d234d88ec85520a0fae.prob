@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\k26rahul\\Code\\Vidhatri\\week-3\\test.py","tests":[{"id":1712231396734,"input":"rahul\nvidhatri\nharikesh\nsanika\ncmd\nroshni\nSTOP","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\k26rahul\\Code\\Vidhatri\\week-3\\test.py","group":"local","local":true}
